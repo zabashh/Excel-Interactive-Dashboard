@@ -10,3 +10,9 @@ First, we'll get the dashboard structure sorted out using Excel shapes and image
 # The Data Analysis using Pivot tables
 | --- | --- |
 | ![Data Analysis](images/analysisandcalculations.jpg) |
+
+# The Final Output
+
+By leveraging pivot tables, incorporating essential KPIs, conducting thorough data analysis, and implementing slicers, i have created a dynamic and comprehensive dashboard that provides actionable insights at a glance.
+| --- | --- |
+| ![Dashboard](images/Dashboard.jpg) |
