@@ -1,7 +1,9 @@
 
 | Excel Interactive Dashboard |  Image |
 | --- | --- |
-| ![Dashboard](images/Dashboard.jpg) | ![Data set](images/dataset.jpg) |
+| ![Dashboard](images/Dashboard.jpg) | 
+
+ ![Data set](images/dataset.jpg)
 
 # Creating a Dynamic Dashboard in Excel: A Step-by-Step Guide
 
